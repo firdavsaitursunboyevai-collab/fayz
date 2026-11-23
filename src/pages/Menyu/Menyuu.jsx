@@ -27,24 +27,24 @@ const Menyuu = () => {
         <span className="text-gray-700">Menyu</span>
       </div>
 
-      <div className="flex gap-10">
-        <aside className="w-64 shrink-0 self-start sticky top-6">
+      <div className="flex flex-col gap-6 lg:flex-row lg:gap-10">
+        <aside className="w-full shrink-0 self-start lg:sticky lg:top-6 lg:w-64">
           <h1 className="mb-5 text-4xl">Menyu</h1>
 
-          <div className="flex flex-col gap-2 rounded-2xl bg-white p-4 shadow-md">
-            <a href="#setlar" className="px-5 py-3 text-lg font-light text-[#4a4a4a] hover:bg-purple-100 rounded-xl cursor-pointer transition-colors">
+          <div className="flex gap-2 overflow-x-auto rounded-2xl bg-white p-3 shadow-md lg:flex-col lg:overflow-visible lg:p-4">
+            <a href="#setlar" className="shrink-0 whitespace-nowrap rounded-xl px-4 py-3 text-base font-light text-[#4a4a4a] transition-colors hover:bg-purple-100 lg:w-full lg:px-5 lg:text-lg">
               Setlar
             </a>
-            <a href="#milliy" className="px-5 py-3 text-lg font-light text-[#4a4a4a] hover:bg-purple-100 rounded-xl cursor-pointer transition-colors">
+            <a href="#milliy" className="shrink-0 whitespace-nowrap rounded-xl px-4 py-3 text-base font-light text-[#4a4a4a] transition-colors hover:bg-purple-100 lg:w-full lg:px-5 lg:text-lg">
               Milliy taomlar
             </a>
-            <a href="#yevropa" className="px-5 py-3 text-lg font-light text-[#4a4a4a] hover:bg-purple-100 rounded-xl cursor-pointer transition-colors">
+            <a href="#yevropa" className="shrink-0 whitespace-nowrap rounded-xl px-4 py-3 text-base font-light text-[#4a4a4a] transition-colors hover:bg-purple-100 lg:w-full lg:px-5 lg:text-lg">
               Yevropa taomlari
             </a>
-            <a href="#kofe" className="px-5 py-3 text-lg font-light text-[#4a4a4a] hover:bg-purple-100 rounded-xl cursor-pointer transition-colors">
-              salatar
+            <a href="#kofe" className="shrink-0 whitespace-nowrap rounded-xl px-4 py-3 text-base font-light text-[#4a4a4a] transition-colors hover:bg-purple-100 lg:w-full lg:px-5 lg:text-lg">
+              Salatlar
             </a>
-            <a href="#ichimliklar" className="px-5 py-3 text-lg font-light text-[#4a4a4a] hover:bg-purple-100 rounded-xl cursor-pointer transition-colors">
+            <a href="#ichimliklar" className="shrink-0 whitespace-nowrap rounded-xl px-4 py-3 text-base font-light text-[#4a4a4a] transition-colors hover:bg-purple-100 lg:w-full lg:px-5 lg:text-lg">
               Ichimliklar
             </a>
           </div>

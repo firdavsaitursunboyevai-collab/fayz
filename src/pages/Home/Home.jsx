@@ -20,21 +20,23 @@ import image16 from "./apelsinn.jpg";
 const Home = () => {
   return (
     <main className="w-full">
-      <div className="relative w-full h-[700px]">
+      <div className="relative h-[520px] w-full sm:h-[600px] lg:h-[700px]">
         <img src={rek} alt="" className="w-full h-full object-cover" />
 
-        <div className="absolute inset-0 bg-black/50 flex items-center px-16">
-          <div className="max-w-xl text-white">
-            <h1 className="text-5xl font-bold mb-5">Fayz Cafe</h1>
+        <div className="absolute inset-0 flex items-center bg-black/50 px-5 sm:px-10 lg:px-16">
+          <div className="mx-auto w-full max-w-7xl text-white">
+            <div className="max-w-xl">
+            <h1 className="mb-4 text-4xl font-bold sm:text-5xl">Fayz Cafe</h1>
 
-            <p className="text-xl leading-8 mb-7">
+            <p className="mb-7 text-base leading-7 sm:text-xl sm:leading-8">
               Sizning sevimli taomlaringizni toping va buyurtma qiling! Mazali
               taomlar, sifatli xizmat va qulay sharoit!
             </p>
 
-            <button className="bg-orange-500 hover:bg-orange-600 px-8 py-3 rounded-lg text-white font-semibold shadow-lg cursor-pointer">
+            <button className="cursor-pointer rounded-lg bg-orange-500 px-6 py-3 font-semibold text-white shadow-lg hover:bg-orange-600 sm:px-8">
               Buyurtma berish
             </button>
+            </div>
           </div>
         </div>
       </div>
