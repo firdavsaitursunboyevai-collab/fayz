@@ -44,21 +44,21 @@ const Header = () => {
           <Link
             to="/"
             onClick={closeMenu}
-            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-orange-50 hover:text-orange-500 md:px-3 md:py-2"
+            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-blue-50 hover:text-blue-500 md:px-3 md:py-2"
           >
             Bosh sahifa
           </Link>
           <Link
             to="/about"
             onClick={closeMenu}
-            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-orange-50 hover:text-orange-500 md:px-3 md:py-2"
+            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-blue-50 hover:text-blue-500 md:px-3 md:py-2"
           >
             Biz haqimizda
           </Link>
           <Link
             to="/menu"
             onClick={closeMenu}
-            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-orange-50 hover:text-orange-500 md:px-3 md:py-2"
+            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-blue-50 hover:text-blue-500 md:px-3 md:py-2"
           >
             Menyu
           </Link>

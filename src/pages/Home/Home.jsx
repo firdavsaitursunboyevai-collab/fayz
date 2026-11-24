@@ -41,7 +41,128 @@ const Home = () => {
         </div>
       </div>
      
-   <section className="mx-auto grid max-w-6xl grid-cols-1 gap-8 px-6 py-12 lg:grid-cols-2">
+  
+      <div className="max-w-7xl mx-auto px-8 py-12">
+        <h1 className="text-4xl text-center mb-10">Bizning mahsulotlarimiz</h1>
+
+        <h2 className="text-3xl mb-6">Setlar</h2>
+
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image2} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image3} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image4} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image5} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image6} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image7} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image8} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image9} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image10} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image11} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image12} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image13} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image14} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image15} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
+            <img src={image16} alt="" className="w-full h-60 object-cover" />
+            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
+            <p className="px-4 text-gray-600">xxxxx</p>
+            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
+          </article>
+
+        </div>
+      </div>
+        <section className="mx-auto grid max-w-6xl grid-cols-1 gap-8 px-6 py-12 lg:grid-cols-2">
       <div className="flex flex-col gap-6">
         <div className="relative h-64 overflow-hidden rounded-3xl shadow-xl">
           <img src={img} alt="" className="h-full w-full object-cover" />
@@ -167,126 +288,6 @@ const Home = () => {
         </form>
       </div>
     </section>
-      <div className="max-w-7xl mx-auto px-8 py-12">
-        <h1 className="text-4xl text-center mb-10">Bizning mahsulotlarimiz</h1>
-
-        <h2 className="text-3xl mb-6">Setlar</h2>
-
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image2} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image3} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image4} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image5} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image6} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image7} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image8} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image9} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image10} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image11} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image12} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image13} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image14} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image15} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-          <article className="bg-white rounded-3xl shadow-md hover:shadow-xl cursor-pointer overflow-hidden">
-            <img src={image16} alt="" className="w-full h-60 object-cover" />
-            <h3 className="mt-3 px-4 text-2xl">xxxxx</h3>
-            <p className="px-4 text-gray-600">xxxxx</p>
-            <p className="px-4 pb-4 text-sm text-gray-400">xxxxx</p>
-          </article>
-
-        </div>
-      </div>
     </main>
   );
 };
