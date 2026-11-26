@@ -52,12 +52,36 @@ const About = () => {
               maydonchasi va bepul avtoturargoh. Joyida ovqatlanish, olib ketish
               va G'azalkent bo'ylab yetkazib berish xizmati bor.
             </p>
-            <a
-              href="tel:+998997620707"
-              className="cursor-pointer  text-gray-900 hover:text-orange-500"
-            >
-              +998 99 762 07 07
-            </a>
+           
+           
+              
+                <p className="text-gray-900">
+              Kafe:
+              <a
+                href="tel:+998999740707"
+                className="cursor-pointer  hover:text-orange-500"
+              >
+               +998 99 762 07 07
+              </a>
+            </p>
+            <p className="text-gray-900">
+              Kottejlar:
+              <a
+                href="tel:+998996597777"
+                className="cursor-pointer  hover:text-orange-500"
+              >
+               +998 99 762 07 07
+              </a>
+            </p>
+               <p className="text-gray-900">
+              Kottejlar:
+              <a
+                href="tel:+998996597777"
+                className="cursor-pointer  hover:text-orange-500"
+              >
+               +998 99 762 07 07
+              </a>
+            </p>
           </article>
 
           <article className="cursor-pointer rounded-3xl bg-white p-6 shadow-md hover:shadow-xl">
