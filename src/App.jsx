@@ -6,6 +6,7 @@ import Footer from './components/Footer/Footer'
 import Home from './pages/Home/Home'
 import Menyuu from './pages/Menyu/Menyuu'
 import About from './pages/About/About'
+import Desert from './pages/Desert/desert'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/menu" element={<Menyuu />} />
+          <Route path="/desert" element={<Desert />} />
           <Route path="/about" element={<About />} />
         </Routes>
       </div>

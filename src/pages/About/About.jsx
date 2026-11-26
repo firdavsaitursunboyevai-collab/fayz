@@ -44,7 +44,7 @@ const About = () => {
             <p className="mb-4 text-gray-500">
               Ozodlik ko'chasi (asosiy trassa usti)
             </p>
-            <p className="mb-4 text-lg font-medium text-orange-500">
+            <p className="mb-4 text-lg  text-orange-500">
               Har kuni 09:00 – 23:00
             </p>
             <p className="mb-4  text-gray-600">
@@ -54,7 +54,7 @@ const About = () => {
             </p>
             <a
               href="tel:+998997620707"
-              className="cursor-pointer font-medium text-gray-900 hover:text-orange-500"
+              className="cursor-pointer  text-gray-900 hover:text-orange-500"
             >
               +998 99 762 07 07
             </a>
@@ -66,7 +66,7 @@ const About = () => {
             </h3>
             <p className="mb-1 text-gray-500">Chimyon va Amirsoy hududi</p>
             <p className="mb-4 text-gray-500">Amirsoy ko'chasi</p>
-            <p className="mb-4 text-lg font-medium text-orange-500">
+            <p className="mb-4 text-lg  text-orange-500">
               Har kuni 08:00 – 22:00
             </p>
             <p className="mb-4  text-gray-600">
@@ -79,7 +79,7 @@ const About = () => {
               Kafe:
               <a
                 href="tel:+998999740707"
-                className="cursor-pointer font-medium hover:text-orange-500"
+                className="cursor-pointer  hover:text-orange-500"
               >
                 +998 99 974 07 07
               </a>
@@ -88,7 +88,7 @@ const About = () => {
               Kottejlar:
               <a
                 href="tel:+998996597777"
-                className="cursor-pointer font-medium hover:text-orange-500"
+                className="cursor-pointer  hover:text-orange-500"
               >
                 +998 99 659 77 77
               </a>
@@ -99,30 +99,30 @@ const About = () => {
             <h3 className="mb-3 text-2xl font-semibold">Toshkent shahri</h3>
             <p className="mb-4 text-gray-500">Shahar filiallari</p>
             <p className="mb-2  text-gray-600">
-              <span className="font-medium text-gray-900">
+              <span className=" text-gray-900">
                 Qo'yliq (Xonobod):
               </span>
               Katta halqa yo'li 29/1-uy, «Tolariq» metro bekati yaqini.
               Kundalik taomlardan tashqari maxsus to'y oshlari ham tayyorlanadi.
             </p>
             <p className="mb-2  text-gray-600">
-              <span className="font-medium text-gray-900">Shayxontohur:</span>
+              <span className=" text-gray-900">Shayxontohur:</span>
               Ibn Sino mavzesi, Beltepa ko'chasi (88-avtobus oxirgi bekati).
             </p>
             <p className="mb-2  text-gray-600">
-              <span className="font-medium text-gray-900">
+              <span className=" text-gray-900">
                 Ko'ksaroy ko'chasi:
               </span>
               «Fayz kafe chinor»
               <a
                 href="tel:+998909600083"
-                className="cursor-pointer font-medium text-gray-900 hover:text-orange-500"
+                className="cursor-pointer  text-gray-900 hover:text-orange-500"
               >
                 +998 90 960 00 83
               </a>
             </p>
             <p className=" text-gray-600">
-              <span className="font-medium text-gray-900">Boshqa:</span>
+              <span className=" text-gray-900">Boshqa:</span>
               Nurafshon ko'chasi va Yangihayot tumanlarida ham kafelarimiz bor.
             </p>
           </article>

@@ -62,6 +62,13 @@ const Header = () => {
           >
             Menyu
           </Link>
+          <Link
+            to="/desert"
+            onClick={closeMenu}
+            className="rounded-lg px-4 py-3 text-gray-800 hover:bg-blue-50 hover:text-blue-500 md:px-3 md:py-2"
+          >
+            Desertlar
+          </Link>
         </nav>
       </div>
     </header>
